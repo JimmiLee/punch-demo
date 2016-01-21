@@ -1,1 +1,5 @@
+# disregard the output folder with contents - we don't want the build output folder on GitHub!
 ouput/*
+
+# disregard the node_modules folder with contents - these are also only for local use, so don't push to GitHub!
+node_modules/*
