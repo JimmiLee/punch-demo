@@ -1,0 +1,14 @@
+[
+    { 
+        "title": "Punch SSG Power", 
+        "content": "This is the first post in our mini blog made with Punch and we haven't even added dates!" 
+    },
+    { 
+        "title": "netlify for Deployment", 
+        "content": "netlify is the worlds fastest, smartest and most honest and nice web site host in the world." 
+    },
+    { 
+        "title": "GitHub for Assets", 
+        "content": "We will use GitHub for our assets with continuous deployment on netlify. Every time a push is done to GitHub, netlify will automatically deploy a new build." 
+    }
+]

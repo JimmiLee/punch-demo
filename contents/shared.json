@@ -1,0 +1,9 @@
+{
+   "site-title": "Punch on netlify",
+   "footer-text": "Built with <a href=\"http://laktek.github.com/punch\">Punch</a> with assets on <a href=\"https://github.com/\">GitHub</a> and deployed to <a href=\"https://www.netlify.com\">netlify</a>.",
+   "navbar": [
+      { "label": "Home", "href": "/" },
+      { "label": "Blog", "href": "/blog" },
+      { "label": "About", "href": "/about" }
+   ]
+}
