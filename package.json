@@ -1,0 +1,19 @@
+{
+  "name": "punch-demo",
+  "version": "1.0.0",
+  "description": "small punch demo site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JimmiLee/punch-demo.git"
+  },
+  "author": "Jimmi Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JimmiLee/punch-demo/issues"
+  },
+  "homepage": "https://github.com/JimmiLee/punch-demo#readme"
+}
